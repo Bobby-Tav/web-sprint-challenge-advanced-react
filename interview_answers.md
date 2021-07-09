@@ -19,3 +19,4 @@ any code that uses state.
 Arrange-Where you use render on the component
 Act-it is when you want to see if something has rendered on the screen.
 Assert-Ro make sure it has rendered on the screen.
+
